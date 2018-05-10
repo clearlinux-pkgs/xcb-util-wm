@@ -4,7 +4,7 @@
 #
 Name     : xcb-util-wm
 Version  : 0.4.1
-Release  : 1
+Release  : 2
 URL      : https://xcb.freedesktop.org/dist/xcb-util-wm-0.4.1.tar.bz2
 Source0  : https://xcb.freedesktop.org/dist/xcb-util-wm-0.4.1.tar.bz2
 Summary  : XCB ICCCM binding
